@@ -2,7 +2,7 @@
 
 <h1> intigration of git to - jenkins to- appache tomcat </h1>
 
-<h1> All the best.................... </h1>
+
 
 
 
