@@ -1,34 +1,17 @@
 
 
-<html>
-<body>
-<h1>Welcome To Wissen infotech </h1>
-<h2>Application by Leela sudheer </h2>
-</body>
-<body style="color:green;">
- <div class="container">
-    <label for="uname"><b>Username:    </b></label>
-    <input type="text" placeholder="Enter Username" name="uname" required>
-<br></br>
-    <label for="psw"><b>Password:     </b></label>
-    <input type="password" placeholder="Enter Password" name="psw" required>
-<br></br>
-   <button type="submit">Login</button>
-<style>
-h1
+ 
+class HelloWorld
 {
-  color:magenta;
-  text-align:center;
+    // Your program begins with a call to main().
+    // Prints "Hello, World" to the terminal window.
+    public static void main(String args[])
+    {
+        System.out.println("Hello World --version1");
+        System.out.println("Hello World --version2");
+        System.out.println("Hello World --version3");
+    }
 }
-h5
-{
-  text-align: justify;
-}
-</style>
-  </div>
-</body>
-</html>
-
 
 
 
